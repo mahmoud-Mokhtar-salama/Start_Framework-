@@ -1,0 +1,60 @@
+h4.text-uppercase {
+  font-weight: bold;
+  color: black;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.decorative-lines-about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.lineabout {
+  width: 50px;
+  height: 5px;
+  background-color: black;
+}
+
+.star {
+  font-size: 1.5rem;
+  margin: 0 10px;
+  color: black;
+}
+
+.contact-form-container {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-form-container .form-group {
+  margin-bottom: 15px;
+}
+
+.contact-form-container .form-control {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.contact-form-container .btn {
+  display: flex;
+  width: auto;
+  padding: 5px 10px;
+  font-size: 1rem;
+  background-color: hsl(134, 18%, 64%);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.contact-form-container .btn:hover {
+  background-color: #113931;
+}

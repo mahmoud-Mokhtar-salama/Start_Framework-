@@ -1,0 +1,29 @@
+.home img {
+width: 250px;
+padding: 18px;
+}
+
+.home {
+  background-color: #1abc9c;
+}
+.star{
+color: white;
+}
+.container {
+  margin-top: 120px;
+  height: 100vh;
+}
+
+h2 {
+  font-weight: bold;
+  color: white;
+}
+
+
+
+p {
+  margin-top: 40px;
+  color: white;
+}
+
+/* FOOTER CSS */
